@@ -3,7 +3,7 @@
 -- ║      Copy this file and build your script from it              ║
 -- ╚══════════════════════════════════════════════════════════════════╝
 
-local Library = loadstring(game:HttpGet("YOUR_RAW_LIBRARY_URL_HERE"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/coldfundss/Librarys/refs/heads/main/Library.lua"))()
 
 -- ─────────────────────────────────────────────────────────────────
 -- WINDOW
